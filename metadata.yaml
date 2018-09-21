@@ -1,5 +1,8 @@
 _repo: The-Touch-of-Abner_53604
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53604-rst/images/img-cover.jpg
 creator:
   author:
     agent_name: Cody, H. A. (Hiram Alfred)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '2694'
     url: http://www.gutenberg.org/2009/agents/2694
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53604#The-Touch-of-Abner
 gutenberg_issued: '2016-11-25'
 gutenberg_type: Text
 identifiers:
