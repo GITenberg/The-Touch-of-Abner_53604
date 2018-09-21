@@ -1,0 +1,25 @@
+_repo: The-Touch-of-Abner_53604
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cody, H. A. (Hiram Alfred)
+    alias: Cody, Hiram Alfred
+    birthdate: 1872
+    deathdate: 1948
+    gutenberg_agent_id: '2694'
+    url: http://www.gutenberg.org/2009/agents/2694
+description: ''
+gutenberg_issued: '2016-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53604'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Touch of Abner
+url: http://www.gutenberg.org/ebooks/53604
